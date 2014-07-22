@@ -1,0 +1,4 @@
+# Don't include existing JWI files (see http://projects.csail.mit.edu/jwi/ for those)
+edu/
+META-INF/
+
